@@ -1,6 +1,6 @@
 # Flutter Youtube Clone
 
-This application contain videos from youtube.
+This application contain videos of youtube.
 
 In this application I am used youtube API.
 
